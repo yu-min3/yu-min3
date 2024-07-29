@@ -21,8 +21,14 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,linux,python,fastapi,sklearn,docker,terraform" />
-<br>
 
+- AWS Certified Solutions Architect Professional
+- AWS Certified DevOps Engineer Associate
+- AWS Certified SysOps Administrator Associate
+- LPIC level-2
+- JDLA Deep Learning for ENGINEER
+- Atcoder brown
+<br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->

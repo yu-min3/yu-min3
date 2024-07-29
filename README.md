@@ -7,9 +7,12 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- バックエンドエンジニア、インフラエンジニア、データサイエンティストとして働いています！
-- 機械工学専攻→化学品の研究開発者→データサイエンティスト兼システムエンジニア
-- 📫  [個人ブログ](https://twitter.com/username)、[LinkedIn](https://www.linkedin.com/in/yu-misaki-101605261/)
+- Hey! I'm Yu Misaki. I live in Tokyo
+- my job is system engineer(backend, infrastructure) and data science.
+- Recently, I have been working mainly on the design and implementation of MLOPS systems!
+- I am AWS Solution Archietect Professional and LPIC-2 certified.so I also work around infrastructure.
+- [Zenn](https://twitter.com/username)
+- [LinkedIn](https://www.linkedin.com/in/yu-misaki-101605261/)
 <br>
 
 
@@ -17,7 +20,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,docker,terraform,aws,linux" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,linux,python,fastapi,sklearn,docker,terraform" />
 <br>
 
 

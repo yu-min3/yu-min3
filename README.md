@@ -1,6 +1,6 @@
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=yuu-misaki" />
+  <img src="https://komarev.com/ghpvc/?username=yu-min3" />
 </div>
 
 
@@ -11,7 +11,7 @@
 - my job is system engineer(backend, infrastructure) and data science.
 - Recently, I have been working mainly on the design and implementation of MLOPS systems!
 - I am AWS Solution Archietect Professional and LPIC-2 certified.so I also work around infrastructure.
-- [Zenn](https://twitter.com/username)
+- [Zenn](https://zenn.dev/yuu7751)
 - [LinkedIn](https://www.linkedin.com/in/yu-misaki-101605261/)
 <br>
 
@@ -20,11 +20,12 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,linux,python,fastapi,sklearn,docker,terraform" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,gcp,linux,python,fastapi,sklearn,docker,terraform" />
 
 - AWS Certified Solutions Architect Professional
 - AWS Certified DevOps Engineer Associate
 - AWS Certified SysOps Administrator Associate
+- Google Cloud Professional Cloud Architect
 - LPIC level-2
 - JDLA Deep Learning for ENGINEER
 - Atcoder brown
@@ -34,8 +35,8 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats-my-clone.vercel.app/api?username=yuu-misaki&count_private=true&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats-my-clone.vercel.app/api/top-langs/?username=yuu-misaki&count_private=true&theme=vue-dark&layout=compact&exclude_repo=github-readme-stats-my-clone" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-my-clone.vercel.app/api?username=yu-min3&count_private=true&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-my-clone.vercel.app/api/top-langs/?username=yu-min3&count_private=true&theme=vue-dark&layout=compact&exclude_repo=github-readme-stats-my-clone" />
 </div>
 
 

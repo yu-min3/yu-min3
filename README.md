@@ -35,8 +35,10 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats-my-clone.vercel.app/api?username=yu-min3&count_private=true&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats-my-clone.vercel.app/api/top-langs/?username=yu-min3&count_private=true&theme=vue-dark&layout=compact&exclude_repo=github-readme-stats-my-clone" />
+
+  [![](https://raw.githubusercontent.com/yu-min3/yu-min3/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](https://raw.githubusercontent.com/yu-min3/yu-min3/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yu-min3/yu-min3/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](https://raw.githubusercontent.com/yu-min3/yu-min3/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yu-min3/yu-min3/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 
 

@@ -26,6 +26,7 @@
 - AWS Certified DevOps Engineer Associate
 - AWS Certified SysOps Administrator Associate
 - Google Cloud Professional Cloud Architect
+- Certified Kubernetes Administorator
 - LPIC level-2
 - JDLA Deep Learning for ENGINEER
 - Atcoder brown

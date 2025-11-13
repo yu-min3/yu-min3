@@ -7,14 +7,12 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- Hey! I'm Yu Misaki. I live in Tokyo
-- my job is system engineer(backend, infrastructure) and data science.
-- Recently, I have been working mainly on the design and implementation of MLOPS systems!
-- I am AWS Solution Archietect Professional and LPIC-2 certified.so I also work around infrastructure.
+- 👋 Hey! I'm Yu Misaki, living in Tokyo
+- 💼 I work as a system engineer specializing in backend, infrastructure, and data science
+- 🚀 Currently focused on designing and implementing MLOps systems
 - [Zenn](https://zenn.dev/yuu7751)
 - [LinkedIn](https://www.linkedin.com/in/yu-misaki-101605261/)
 <br>
-
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
@@ -22,16 +20,24 @@
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,gcp,linux,kubernetes,python,fastapi,sklearn,docker,terraform" />
 
-- Kubestranout (CKS, CKA, CKAD, KCSA, KCNA)
-- LPIC level-2
-- AWS Certified Solutions Architect Professional
-- AWS Certified DevOps Engineer Associate
-- AWS Certified SysOps Administrator Associate
-- Google Cloud Professional Cloud Architect
-- JDLA Deep Learning for ENGINEER
-- Atcoder brown
-<br>
+## 🏆 Certifications
 
+**Kubernetes**
+- Kubestranouts(CKS, CKA, CKAD, KCSA, KCNA)
+
+**AWS**
+- Solutions Architect Professional
+- DevOps Engineer Associate
+- SysOps Administrator Associate
+
+**Google Cloud**
+- Professional Cloud Architect
+
+**Other**
+- LPIC level-2
+- JDLA Deep Learning for ENGINEER
+- AtCoder (Brown)
+- 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities

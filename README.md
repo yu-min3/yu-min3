@@ -7,12 +7,13 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- Hey! I'm Yu Misaki. I live in Tokyo
-- my job is system engineer(backend, infrastructure) and data science.
-- Recently, I have been working mainly on the design and implementation of MLOPS systems!
-- I am AWS Solution Archietect Professional and LPIC-2 certified.so I also work around infrastructure.
-- [Zenn](https://zenn.dev/yuu7751)
-- [LinkedIn](https://www.linkedin.com/in/yu-misaki-101605261/)
+- 👋 Hey! I'm Yu Misaki, living in Tokyo
+- 💼 System Engineer specializing in backend, infrastructure, and data science
+- 🚀 Currently working on infrastructure and generative AI system development
+- 🔧 Building GitOps-based Kubernetes clusters as a hobby project
+- 🏅 AWS Solutions Architect Professional and LPIC-2 certified
+- 📝 [Zenn](https://zenn.dev/yuu7751)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yu-misaki-101605261/)
 <br>
 
 
@@ -22,7 +23,7 @@
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,gcp,linux,kubernetes,python,fastapi,sklearn,docker,terraform" />
 
-- Kubestranout (CKS, CKA, CKAD, KCSA, KCNA)
+- Kubernetes (CKS, CKA, CKAD, KCSA, KCNA)
 - LPIC level-2
 - AWS Certified Solutions Architect Professional
 - AWS Certified DevOps Engineer Associate

@@ -23,7 +23,7 @@
 ## 🏆 Certifications
 
 **Kubernetes**
-- Kubestranouts(CKS, CKA, CKAD, KCSA, KCNA)
+- Golden Kubestranouts
 
 **AWS**
 - Solutions Architect Professional
@@ -37,7 +37,7 @@
 - LPIC level-2
 - JDLA Deep Learning for ENGINEER
 - AtCoder (Brown)
-- 
+
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities

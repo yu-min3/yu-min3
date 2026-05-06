@@ -7,7 +7,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 👋 Hey! I'm Yu Misaki, living in Tokyo
+- 👋 Hey! I'm Yu Misaki, living in Yokohama
 - 💼 I work as a system engineer specializing in backend, infrastructure, and data science
 - 🚀 Currently focused on designing and implementing MLOps systems
 - [Zenn](https://zenn.dev/yuu7751)
